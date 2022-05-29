@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue) -->
 
 **저는 아침형 인간이에요. 🐤** 
 
