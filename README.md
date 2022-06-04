@@ -1,17 +1,15 @@
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+# 소켓 통신 기반 1:1 채팅
+- NodeJS, Express, Socket.io 채팅
 
-**🐱 저의 GitHub 정보에요.** 
+**설치 및 실행** 
 
-> 🏆 175 만큼의 Contributions을 2022년에 했어요
- > 
-> 📦 GitHub의 69.6 kB만큼의 저장소를 사용하고 있어요. 
- > 
-> 🚫 구직중이지 않아요.
- > 
-> 📜 7개의 Public Repository를 만들었어요. 
- > 
-> 🔑 0개의 Private Repository를 만들었어요.  
+> cd JOOM
+ >
+> npm install
+ >
+> npm run dev
+ >
+> localhost:5000 접속
  > 
 **저는 아침형 인간이에요. 🐤** 
 
