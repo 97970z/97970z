@@ -1,16 +1,4 @@
-# 소켓 통신 기반 1:1 채팅
-- NodeJS, Express, Socket.io 채팅
 
-**설치 및 실행** 
-
-> cd JOOM
- >
-> npm install
- >
-> npm run dev
- >
-> localhost:5000 접속
- > 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
