@@ -16,7 +16,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=97970z&show_icons=true&theme=tokyonight&locale=kr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97970z&layout=compact&locale=kr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97970z&layout=compact&locale=kr)
 
 ## 💼 기술
 
