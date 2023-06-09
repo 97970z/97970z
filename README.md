@@ -1,7 +1,8 @@
-# 양한준's Profile
+# 양한준's Profile [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F97970z&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjmXCxqgGChbVHQfWMKLPvzdvKxhgGdprMKfdMPZkWtJXgCrGCnqfKdDXMRPSjbPpwbkg" target="_blank"><img src="https://img.shields.io/badge/GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 <a href="https://kmong.com/gig/411092" target="_blank"><img src="https://img.shields.io/badge/CMONG-FFFFFF?style=for-the-badge&logo=freelancer&logoColor=yellow"/></a>
 <a href="https://kmong.com/gig/411092" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=readthedocs&logoColor=blue"/></a>
+            
 
 ## 열정적인 개발자! 양한준입니다. 👋
 
