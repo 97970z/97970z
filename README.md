@@ -13,12 +13,6 @@
 - Project 1: [Selody](https://github.com/Selody-project)
 - Project 2: [Locationpedia](https://github.com/97970z/Locationpedia)
 
-## 📊 스탯
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=97970z&show_icons=true&theme=tokyonight&locale=kr)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=97970z&layout=compact&locale=kr)
-
 ## 💼 기술
 
 - Programming languages: JavaScript
