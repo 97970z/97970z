@@ -11,10 +11,3 @@
 
 - Project 1: [Selody](https://github.com/Selody-project)
 - Project 2: [Locationpedia](https://github.com/97970z/Locationpedia)
-
-## 💼 기술
-
-- Programming languages: JavaScript
-- Web development: HTML, CSS, React
-- Databases: MongoDB, MySQL 
-- Version control: Git, GitHub
