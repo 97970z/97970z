@@ -6,8 +6,3 @@
 ## 프론트엔드 개발자 양한준입니다. 👋
 
 안녕하십니까! 저는 양한준입니다, 프로젝트에 참여하는 것을 좋아하고 개발을 좋아하는 프론트엔드 개발자입니다.
-
-## 🔭 진행 중인 프로젝트
-
-- Project 1: [Selody](https://github.com/Selody-project)
-- Project 2: [Locationpedia](https://github.com/97970z/Locationpedia)
