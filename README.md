@@ -1,4 +1,4 @@
-# 양한준's Profile [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F97970z&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+# 양한준's Profile
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjmXCxqgGChbVHQfWMKLPvzdvKxhgGdprMKfdMPZkWtJXgCrGCnqfKdDXMRPSjbPpwbkg" target="_blank"><img src="https://img.shields.io/badge/GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 <a href="https://react-portfolio-eight-ebon.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=readthedocs&logoColor=blue"/></a>
             
